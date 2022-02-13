@@ -667,7 +667,7 @@ p {
           line-height: 24px;
           font-weight: 700;
           padding: 11px 16px;
-          color: #fff;
+          color: #04009A;
           text-transform: uppercase;
           position: relative;
           border-radius: 5px;
@@ -1033,7 +1033,7 @@ p {
       border-bottom: 1px solid #cbced1;
       display: block; }
       .sidebar-right .sidebar-content .sidebar-menu ul li a:hover {
-        color: #38f9d7; }
+        color: #04009A; }
   .sidebar-right .sidebar-content .sidebar-social {
     margin-top: 30px; }
     .sidebar-right .sidebar-content .sidebar-social span {
@@ -1048,7 +1048,7 @@ p {
       margin-right: 5px; }
       .sidebar-right .sidebar-content .sidebar-social ul li a {
         font-size: 32px;
-        color: #38f9d7;
+        color: #04009A;
         -webkit-transition: all 0.3s ease-out 0s;
         -moz-transition: all 0.3s ease-out 0s;
         -ms-transition: all 0.3s ease-out 0s;
@@ -2173,7 +2173,7 @@ p {
   height: 45px;
   line-height: 45px;
   border-radius: 50%;
-  background-color: #38f9d7;
+  background-color: #04009A;
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
