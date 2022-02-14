@@ -162,7 +162,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #38f9d7 #38f9d7 #cbced1;
+      border-color: #04009A #04009A #cbced1;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader .ytp-spinner-left .ytp-spinner-circle {
@@ -2146,7 +2146,7 @@ p {
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
       .footer-area .footer-copyright .social li a:hover {
-        color: #38f9d7; }
+        color: #04009A; }
 .footer-area.footer-dark {
   background-color: #121212; }
   .footer-area.footer-dark .footer-widget .footer-title {
@@ -2165,7 +2165,7 @@ p {
 /*===== BACK TO TOP =====*/
 .back-to-top {
   font-size: 20px;
-  color: #121212;
+  color: #fff;
   position: fixed;
   right: 20px;
   bottom: 20px;
