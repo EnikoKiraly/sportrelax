@@ -455,33 +455,35 @@
                         <br>
                         <ul class="text-left">
                             <li>
-                                 <img src="assets/images/whatsapp.png">
-                                <a href="tel:+48 531257727">
-                                    <h4> +48531257727 </h4>
-                                </a>
-                               
-                            </li>
-                            <br><br>
-                            <li>
-                                <img src="assets/images/gmail.png">
-                                <a href="mailto:sportrelax.pl@gmail.com"> 
-                                    <h4> sportrelax.pl@gmail.com</h4>
-                                </a>
-                            </li>
-                            <br><br>
-                            <li>
                                 <img src="assets/images/facebook.png">
                                 <a href="https://www.facebook.com/Sportrelax-105881691305034">
                                     <h4> Sportrelax Polub to :)</h4>
                                 </a>
                             </li>
                             <br><br>
-                            <li>                            
+                             <li>                            
                                 <img src="assets/images/instagram.png">
                                 <a href="https://www.instagram.com/sportrelax.pl/">
                                     <h4> sportrelax.pl Obserwuj :)</h4>
                                 </a>
                             </li>
+                            <br><br>
+                            <li>
+                                 <img src="assets/images/whatsapp.png">
+                                <a href="tel:+48 531257727">
+                                    <h4 id="telephone">+48531257727</h4>
+                                </a>
+                                <button onclick="copyToClipboard('#telephone')" class="main-btn rounded-three">Skopiuj</button>    
+                            </li>
+                            <br><br>
+                            <li>
+                                <img src="assets/images/gmail.png">
+                                <a href="mailto:sportrelax.pl@gmail.com"> 
+                                    <h4 id="email">sportrelax.pl@gmail.com</h4>
+                                </a>
+                                <button onclick="copyToClipboard('#email')" class="main-btn rounded-three">Skopiuj</button>  
+                            </li>
+                            <br><br>
                         </ul>
                     </div> <!-- section title -->
                     <!-- <div class='activenow-form-container activenow-form-32900-container'>
@@ -578,6 +580,7 @@
 
     <!--====== Main js ======-->
     <script src="assets/js/main.js"></script>
+
 
 </body>
 
